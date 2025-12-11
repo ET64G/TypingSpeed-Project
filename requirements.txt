@@ -1,0 +1,6 @@
+# Typing Speed Test Application
+# Python 3.7+ required
+# tkinter is included with Python standard library
+
+# No external dependencies required
+
